@@ -1,2 +1,2 @@
 # Project_SonicCSS
-What if the Sonic  was a fighting game ?
+What if the Sonic franchise made a fighting game ?
